@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+/* 글자서식 */
+$font_size_title:30px;
+
+// 변수에 색상값 저장
+$color01:#00f;
+$border01: 1px solid #333;
+$padding10: 10px;
+
+// 글자색 color01 변수값 적용!
+h3{
+  color:$color01;
+  font-size: $font_size_title;
+}
+
+ul{border: $border01; padding: $padding10;}
