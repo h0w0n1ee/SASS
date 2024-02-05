@@ -12,9 +12,10 @@ body{font-family: '맑은 고딕', arial, sans-serif; font-size: $font12; color:
 
 header{text-align: $center_align;}
 header h1{padding: 10px 0px;}
+header h1 a{border: 1px}
 header img{height: 80px;}
 
-main{}
+
 dl{margin: $vlaue0 10px; overflow: hidden;}
 dt{
   border-bottom: $border2 solid $color_sub;

@@ -18,6 +18,10 @@ header h1 {
   padding: 10px 0px;
 }
 
+header h1 a {
+  border: 1px;
+}
+
 header img {
   height: 80px;
 }
